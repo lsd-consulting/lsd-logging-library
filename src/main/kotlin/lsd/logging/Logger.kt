@@ -1,4 +1,4 @@
-package lsd.format.config
+package lsd.logging
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
