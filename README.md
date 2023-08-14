@@ -11,6 +11,4 @@
 [![GitHub release](https://img.shields.io/github/release/lsd-consulting/lsd-logging-library)](https://github.com/lsd-consulting/lsd-logging-library/releases)
 ![Maven Central](https://img.shields.io/maven-central/v/io.github.lsd-consulting/lsd-logging-library)
 
-This is a micro library that provides pretty printing functionality.
-
-Currently, it supports JSON and XML.
+This is a micro library that provides Kotlin logging functionality.
