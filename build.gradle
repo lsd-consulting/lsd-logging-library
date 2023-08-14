@@ -54,7 +54,7 @@ publishing {
             artifact javadocJar
             pom {
                 name = 'lsd-logging-library'
-                description = 'A library providing a formatting functionality, eg. JSON, XML.'
+                description = 'A library providing a Kotlin logging functionality.'
                 url = 'https://github.com/lsd-consulting/lsd-logging-library.git'
                 licenses {
                     license {
