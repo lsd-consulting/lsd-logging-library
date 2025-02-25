@@ -4,7 +4,7 @@ plugins {
     id 'signing'
     id 'io.github.gradle-nexus.publish-plugin' version '2.0.0'
     id 'com.palantir.git-version' version '3.1.0'
-    id 'org.jetbrains.kotlin.jvm' version '2.0.21'
+    id 'org.jetbrains.kotlin.jvm' version '2.1.10'
 }
 
 apply from: 'hooks.gradle'
@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.slf4j:slf4j-api:2.0.16'
+    implementation 'org.slf4j:slf4j-api:2.0.17'
 }
 
 tasks.register('sourcesJar', Jar) {
